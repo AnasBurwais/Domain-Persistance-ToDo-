@@ -1,0 +1,17 @@
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\bin\Debug\net8.0\ToDo.Persistance.deps.json
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\bin\Debug\net8.0\ToDo.Persistance.runtimeconfig.json
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\bin\Debug\net8.0\ToDo.Persistance.dll
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\bin\Debug\net8.0\ToDo.Persistance.pdb
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\bin\Debug\net8.0\ToDo.Domain.dll
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\bin\Debug\net8.0\ToDo.Domain.pdb
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\obj\Debug\net8.0\ToDo.Persistance.csproj.AssemblyReference.cache
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\obj\Debug\net8.0\ToDo.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\obj\Debug\net8.0\ToDo.Persistance.AssemblyInfoInputs.cache
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\obj\Debug\net8.0\ToDo.Persistance.AssemblyInfo.cs
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\obj\Debug\net8.0\ToDo.Persistance.csproj.CoreCompileInputs.cache
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\obj\Debug\net8.0\ToDo.Per.6B179EBD.Up2Date
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\obj\Debug\net8.0\ToDo.Persistance.dll
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\obj\Debug\net8.0\refint\ToDo.Persistance.dll
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\obj\Debug\net8.0\ToDo.Persistance.pdb
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\obj\Debug\net8.0\ToDo.Persistance.genruntimeconfig.cache
+C:\BlazorDevelopment\ToDo\ToDo.Persistance\obj\Debug\net8.0\ref\ToDo.Persistance.dll
